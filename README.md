@@ -24,8 +24,6 @@ Hi! I am in search of new job as front-end developer. Here you can find all info
 ![Git](https://img.shields.io/badge/-Git-666666?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-666666?style=for-the-badge&logo=figma)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romichdmitriev&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romichdmitriev)](https://github.com/anuraghazra/github-readme-stats)
 
