@@ -1,28 +1,20 @@
 ![](./assets/header.gif)
 
-# Junior Front-end Developer
+# Front-end Developer
 
 ### About me
-Hi! I am in search of new job as front-end developer. Here you can find all information about me. Hope you will enjoy it :) 
-
-### Fundamentals:
-1. Data structures
-2. Algorithms
-3. MVC Design Pattern
-   
-![Codewars](https://www.codewars.com/users/romichdmitriev/badges/small)
+Hi! Here you can find all information about me. Hope you will enjoy it :) 
 
 ### Language and tools  
 ![HTML](https://img.shields.io/badge/-HTML-666666?style=for-the-badge&logo=Html5)
-![HTML](https://img.shields.io/badge/-BEM-666666?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-666666?style=for-the-badge&logo=css3)
-![CSS](https://img.shields.io/badge/-SCSS-666666?style=for-the-badge&logo=Sass)
 ![JS](https://img.shields.io/badge/-JS-666666?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-666666?style=for-the-badge&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-666666?style=for-the-badge&logo=webpack)
-![Gulp](https://img.shields.io/badge/-Gulp-666666?style=for-the-badge&logo=gulp)
-![Git](https://img.shields.io/badge/-Git-666666?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-666666?style=for-the-badge&logo=figma)
+![React](https://img.shields.io/badge/-React-666666?style=for-the-badge&logo=react)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 ### GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romichdmitriev)](https://github.com/anuraghazra/github-readme-stats)
